@@ -1,0 +1,23 @@
+{
+  "name": "ryanchenserver",
+  "version": "1.0.0",
+  "description": "Ryan Chen's First Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hiryanchen/ryanchenserver.git"
+  },
+  "keywords": [
+    "Ryan",
+    "Chen"
+  ],
+  "author": "Ryan Chen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hiryanchen/ryanchenserver/issues"
+  },
+  "homepage": "https://github.com/hiryanchen/ryanchenserver"
+}
