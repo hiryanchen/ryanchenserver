@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/hiryanchen/ryanchenserver/issues"
   },
-  "homepage": "https://github.com/hiryanchen/ryanchenserver"
+  "homepage": "https://github.com/hiryanchen/ryanchenserver",
+  "dependencies": {
+    "express": "^4.10.7"
+  }
 }
